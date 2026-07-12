@@ -18,7 +18,7 @@
 - **Front-end**: React.js, Redux, Tailwind CSS
 - **Back-end**: Node.js, Express.js
 - **Database**: MongoDB
-
+<!--
 ## Screenshots
 **Sign up**
 ![Sign up](https://res.cloudinary.com/dfrhy6m3m/image/upload/v1689146231/lxipjhn3pdvkf5h6it98.png)
@@ -58,7 +58,7 @@
 
 **Add Users To Group Only For Admin**
 ![Add_user](https://res.cloudinary.com/dfrhy6m3m/image/upload/v1690197588/lehnw0hfqfnxu8ktajys.png)
-
+-->
 
 
 <h1>  Backend Installation </h1>
